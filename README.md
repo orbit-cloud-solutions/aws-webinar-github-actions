@@ -1,6 +1,7 @@
 # GitHub in Action
 
 [![mklint](https://github.com/orbit-cloud-solutions/aws-webinar-github-actions/actions/workflows/mklint.yml/badge.svg)](https://github.com/orbit-cloud-solutions/aws-webinar-github-actions/actions/workflows/mklint.yml)
+[![eslint](https://github.com/orbit-cloud-solutions/aws-webinar-github-actions/actions/workflows/eslint.yml/badge.svg)](https://github.com/orbit-cloud-solutions/aws-webinar-github-actions/actions/workflows/eslint.yml)
 
 ## Links
 

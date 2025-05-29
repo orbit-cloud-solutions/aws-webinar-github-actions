@@ -1,0 +1,13 @@
+/* public/static/style.css */
+body {
+  font-family: sans-serif;
+  background-color: black;
+  color: white;
+  text-align: center;
+}
+
+.responsive-image {
+  max-width: 100%;
+  height: auto; /* Maintain aspect ratio */
+  display: block; /* Removes extra space below image */
+}
